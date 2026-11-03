@@ -1,0 +1,16 @@
+{
+  "page": {
+    "title": "MRA Home Store — Link Produk",
+    "note": "Klik produk yang kamu mau lengkap, langsung ke Shopee."
+  },
+  "products": [
+    {
+      "id": "zotta-jas-hujan",
+      "name": "Jas Hujan ZOTTA",
+      "tag": "Setelan pria & wanita — anti rembes, PVC tebal",
+      "priceNote": "Rp88.726",
+      "image": "zotta.jpg",
+      "url": "https://s.shopee.co.id/7KyEdE1GcO"
+    }
+  ]
+}
